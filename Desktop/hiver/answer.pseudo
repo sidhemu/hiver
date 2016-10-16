@@ -1,3 +1,4 @@
-function takeName(name){
-	
-}
+// function takeName(name){
+// 	var random = Math.floor(Math.random() * (16 - 5 + 1) + 5);
+// 	return name+random;
+// }
