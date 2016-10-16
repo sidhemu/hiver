@@ -1,4 +1,9 @@
-// function takeName(name){
-// 	var random = Math.floor(Math.random() * (16 - 5 + 1) + 5);
-// 	return name+random;
-// }
+//Create a function called takeName passing the parameter "name"
+function takeName(name){
+	//Generating a random number which in between 5-16
+	var random = Math.floor(Math.random() * (16 - 5 + 1) + 5);
+	//concatinating the name and the random number
+	return name+random;
+
+	//takeName function will return concatinated form of name and random number
+}
